@@ -1,0 +1,33 @@
+[
+    {
+        "item_id": 21,
+        "product_name": "ringRedjew",
+        "product_price": "ring+Redjew",
+        "type": "jewelry"
+    },
+    {
+        "item_id": 22,
+        "product_name": "ringBluejew",
+        "product_price": "ring+Bluejew",
+        "type": "jewelry"
+    },
+    {
+        "item_id": 23,
+        "product_name": "ringgreenjew",
+        "product_price": "ring+greenjew",
+        "type": "jewelry"
+    },
+    {
+        "item_id": 24,
+        "product_name": "ringblackjew",
+        "product_price": "ring+blackjew",
+        "type": "jewelry"
+    },
+    {
+        "item_id": 25,
+        "product_name": "ringyellowjew",
+        "product_price": "ring+yellowjew",
+        "type": "jewelry"
+    }
+   
+]

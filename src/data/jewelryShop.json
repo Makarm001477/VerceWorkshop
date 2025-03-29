@@ -1,0 +1,40 @@
+[
+{
+    "item_id"      : 10,
+    "product_name" : "ring",
+    "product_price" : 500,
+     "type"         : "jewelry"
+},
+{
+    "item_id"      : 11,
+    "product_name" : "Redjew",
+    "product_price" : 500,
+     "type"         : "jewelry"
+},
+{
+    "item_id"      : 12,
+    "product_name" : "Bluejew",
+    "product_price" : 3500,
+     "type"         : "jewelry"
+},
+{
+    "item_id"      : 13,
+    "product_name" : "greenjew",
+    "product_price" : 2500,
+     "type"         : "jewelry"
+},
+{
+    "item_id"      : 14,
+    "product_name" : "blackjew",
+    "product_price" : 1500,
+     "type"         : "jewelry"
+     
+},
+{
+    "item_id"      : 14,
+    "product_name" : "yellowjew",
+    "product_price" : 4500,
+     "type"         : "jewelry"
+     
+}
+]

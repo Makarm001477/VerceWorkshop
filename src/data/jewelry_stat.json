@@ -1,0 +1,35 @@
+[
+    {
+        "item_id"      : 10  
+    },
+    {
+        "item_id"      : 21,
+        "speed" : 120,
+        "cooldown" : 60
+        
+    },
+    {
+        "item_id"      : 22,
+        "stamina" : 999999,
+        "cooldown" : 6500
+        
+    },
+    {
+        "item_id"      : 23,
+        "strong" : 120,
+        "cooldown" : 60
+        
+    },
+    {
+        "item_id"      : 24,
+        "Heal" : 50,
+        "cooldown" : 60
+        
+    },
+    {
+        "item_id"      : 25,
+        "fly" : 10,
+        "cooldown" : 60
+        
+    }
+]
